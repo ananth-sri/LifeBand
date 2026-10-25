@@ -1,0 +1,2 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/flutter_local_notifications.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/vibration.framework
