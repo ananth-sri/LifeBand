@@ -1,6 +1,6 @@
 # LifeBand + Triton
 
-**A wearable and app that alert rescuers automatically when someone is in distress in the water, with no Wi-Fi, cell service or cloud required.**
+**An Off-Grid Aquatic Distress Detection & Emergency Dispatch System (no wi-fi, no cell towers, no cloud required)**
 
 [![Congressional App Challenge](https://img.shields.io/badge/Congressional%20App%20Challenge-2026-1E5F8C)](#)
 ![LoRa](https://img.shields.io/badge/radio-LoRa%20915%20MHz-4A83A8)
