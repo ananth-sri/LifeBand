@@ -23,9 +23,8 @@
 7. [Installation and Local Setup](#installation-and-local-setup)
 8. [API Overview](#api-overview)
 9. [Results](#results)
-10. [Screenshots](#screenshots)
-11. [Limitations and Future Work](#limitations-and-future-work)
-12. [License](#license)
+10. [Limitations and Future Work](#limitations-and-future-work)
+11. [License](#license)
 
 ---
 
@@ -261,10 +260,6 @@ Measured and modeled results from the project paper (see `lb_docs/`):
 | Emergency broadcast battery | About 7 to 9 hours (flood, SF10 to 12); about 12 to 14 hours (pool, SF8) |
 
 Range figures are field measurements. Battery figures are datasheet-based estimates, not measured runs. Rain itself was not tested.
-
-## Screenshots
-
-Add screenshots under `lb_docs/images/` and link them here, for example the role select, lifeguard triage and victim detail screens.
 
 ## Limitations and Future Work
 
